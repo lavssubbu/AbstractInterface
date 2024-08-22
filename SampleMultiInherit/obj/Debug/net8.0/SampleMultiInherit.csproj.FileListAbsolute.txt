@@ -1,0 +1,14 @@
+C:\Users\lavanya\source\repos\Day3dover\SampleMultiInherit\obj\Debug\net8.0\SampleMultiInherit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lavanya\source\repos\Day3dover\SampleMultiInherit\obj\Debug\net8.0\SampleMultiInherit.AssemblyInfoInputs.cache
+C:\Users\lavanya\source\repos\Day3dover\SampleMultiInherit\obj\Debug\net8.0\SampleMultiInherit.AssemblyInfo.cs
+C:\Users\lavanya\source\repos\Day3dover\SampleMultiInherit\obj\Debug\net8.0\SampleMultiInherit.csproj.CoreCompileInputs.cache
+C:\Users\lavanya\source\repos\Day3dover\SampleMultiInherit\bin\Debug\net8.0\SampleMultiInherit.exe
+C:\Users\lavanya\source\repos\Day3dover\SampleMultiInherit\bin\Debug\net8.0\SampleMultiInherit.deps.json
+C:\Users\lavanya\source\repos\Day3dover\SampleMultiInherit\bin\Debug\net8.0\SampleMultiInherit.runtimeconfig.json
+C:\Users\lavanya\source\repos\Day3dover\SampleMultiInherit\bin\Debug\net8.0\SampleMultiInherit.dll
+C:\Users\lavanya\source\repos\Day3dover\SampleMultiInherit\bin\Debug\net8.0\SampleMultiInherit.pdb
+C:\Users\lavanya\source\repos\Day3dover\SampleMultiInherit\obj\Debug\net8.0\SampleMultiInherit.dll
+C:\Users\lavanya\source\repos\Day3dover\SampleMultiInherit\obj\Debug\net8.0\refint\SampleMultiInherit.dll
+C:\Users\lavanya\source\repos\Day3dover\SampleMultiInherit\obj\Debug\net8.0\SampleMultiInherit.pdb
+C:\Users\lavanya\source\repos\Day3dover\SampleMultiInherit\obj\Debug\net8.0\SampleMultiInherit.genruntimeconfig.cache
+C:\Users\lavanya\source\repos\Day3dover\SampleMultiInherit\obj\Debug\net8.0\ref\SampleMultiInherit.dll

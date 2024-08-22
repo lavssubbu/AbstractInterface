@@ -1,0 +1,14 @@
+C:\Users\lavanya\source\repos\Day3dover\SampleInterface\bin\Debug\net8.0\SampleInterface.exe
+C:\Users\lavanya\source\repos\Day3dover\SampleInterface\bin\Debug\net8.0\SampleInterface.deps.json
+C:\Users\lavanya\source\repos\Day3dover\SampleInterface\bin\Debug\net8.0\SampleInterface.runtimeconfig.json
+C:\Users\lavanya\source\repos\Day3dover\SampleInterface\bin\Debug\net8.0\SampleInterface.dll
+C:\Users\lavanya\source\repos\Day3dover\SampleInterface\bin\Debug\net8.0\SampleInterface.pdb
+C:\Users\lavanya\source\repos\Day3dover\SampleInterface\obj\Debug\net8.0\SampleInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lavanya\source\repos\Day3dover\SampleInterface\obj\Debug\net8.0\SampleInterface.AssemblyInfoInputs.cache
+C:\Users\lavanya\source\repos\Day3dover\SampleInterface\obj\Debug\net8.0\SampleInterface.AssemblyInfo.cs
+C:\Users\lavanya\source\repos\Day3dover\SampleInterface\obj\Debug\net8.0\SampleInterface.csproj.CoreCompileInputs.cache
+C:\Users\lavanya\source\repos\Day3dover\SampleInterface\obj\Debug\net8.0\SampleInterface.dll
+C:\Users\lavanya\source\repos\Day3dover\SampleInterface\obj\Debug\net8.0\refint\SampleInterface.dll
+C:\Users\lavanya\source\repos\Day3dover\SampleInterface\obj\Debug\net8.0\SampleInterface.pdb
+C:\Users\lavanya\source\repos\Day3dover\SampleInterface\obj\Debug\net8.0\SampleInterface.genruntimeconfig.cache
+C:\Users\lavanya\source\repos\Day3dover\SampleInterface\obj\Debug\net8.0\ref\SampleInterface.dll

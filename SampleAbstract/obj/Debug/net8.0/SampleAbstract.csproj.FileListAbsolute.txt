@@ -1,0 +1,14 @@
+C:\Users\lavanya\source\repos\Day3dover\SampleAbstract\bin\Debug\net8.0\SampleAbstract.exe
+C:\Users\lavanya\source\repos\Day3dover\SampleAbstract\bin\Debug\net8.0\SampleAbstract.deps.json
+C:\Users\lavanya\source\repos\Day3dover\SampleAbstract\bin\Debug\net8.0\SampleAbstract.runtimeconfig.json
+C:\Users\lavanya\source\repos\Day3dover\SampleAbstract\bin\Debug\net8.0\SampleAbstract.dll
+C:\Users\lavanya\source\repos\Day3dover\SampleAbstract\bin\Debug\net8.0\SampleAbstract.pdb
+C:\Users\lavanya\source\repos\Day3dover\SampleAbstract\obj\Debug\net8.0\SampleAbstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lavanya\source\repos\Day3dover\SampleAbstract\obj\Debug\net8.0\SampleAbstract.AssemblyInfoInputs.cache
+C:\Users\lavanya\source\repos\Day3dover\SampleAbstract\obj\Debug\net8.0\SampleAbstract.AssemblyInfo.cs
+C:\Users\lavanya\source\repos\Day3dover\SampleAbstract\obj\Debug\net8.0\SampleAbstract.csproj.CoreCompileInputs.cache
+C:\Users\lavanya\source\repos\Day3dover\SampleAbstract\obj\Debug\net8.0\SampleAbstract.dll
+C:\Users\lavanya\source\repos\Day3dover\SampleAbstract\obj\Debug\net8.0\refint\SampleAbstract.dll
+C:\Users\lavanya\source\repos\Day3dover\SampleAbstract\obj\Debug\net8.0\SampleAbstract.pdb
+C:\Users\lavanya\source\repos\Day3dover\SampleAbstract\obj\Debug\net8.0\SampleAbstract.genruntimeconfig.cache
+C:\Users\lavanya\source\repos\Day3dover\SampleAbstract\obj\Debug\net8.0\ref\SampleAbstract.dll

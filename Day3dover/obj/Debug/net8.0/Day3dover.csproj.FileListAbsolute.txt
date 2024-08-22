@@ -1,0 +1,14 @@
+C:\Users\lavanya\source\repos\Day3dover\Day3dover\bin\Debug\net8.0\Day3dover.exe
+C:\Users\lavanya\source\repos\Day3dover\Day3dover\bin\Debug\net8.0\Day3dover.deps.json
+C:\Users\lavanya\source\repos\Day3dover\Day3dover\bin\Debug\net8.0\Day3dover.runtimeconfig.json
+C:\Users\lavanya\source\repos\Day3dover\Day3dover\bin\Debug\net8.0\Day3dover.dll
+C:\Users\lavanya\source\repos\Day3dover\Day3dover\bin\Debug\net8.0\Day3dover.pdb
+C:\Users\lavanya\source\repos\Day3dover\Day3dover\obj\Debug\net8.0\Day3dover.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lavanya\source\repos\Day3dover\Day3dover\obj\Debug\net8.0\Day3dover.AssemblyInfoInputs.cache
+C:\Users\lavanya\source\repos\Day3dover\Day3dover\obj\Debug\net8.0\Day3dover.AssemblyInfo.cs
+C:\Users\lavanya\source\repos\Day3dover\Day3dover\obj\Debug\net8.0\Day3dover.csproj.CoreCompileInputs.cache
+C:\Users\lavanya\source\repos\Day3dover\Day3dover\obj\Debug\net8.0\Day3dover.dll
+C:\Users\lavanya\source\repos\Day3dover\Day3dover\obj\Debug\net8.0\refint\Day3dover.dll
+C:\Users\lavanya\source\repos\Day3dover\Day3dover\obj\Debug\net8.0\Day3dover.pdb
+C:\Users\lavanya\source\repos\Day3dover\Day3dover\obj\Debug\net8.0\Day3dover.genruntimeconfig.cache
+C:\Users\lavanya\source\repos\Day3dover\Day3dover\obj\Debug\net8.0\ref\Day3dover.dll
